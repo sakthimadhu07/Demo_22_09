@@ -7,6 +7,6 @@ public class ClassOne {
 		System.out.println("Class one plus");
 		System.out.println("Class one plus plus - REMOTE");
 		System.out.println("Class one plus plus - REMOTE");
-		System.out.println("Class one plus plus - REMOTE");
+		System.out.println("Class one plus plus - REMOTE_ one");
 	}
 }
